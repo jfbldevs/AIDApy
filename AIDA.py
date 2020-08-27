@@ -2936,3 +2936,4 @@ with open('filehere.txt', 'r') as f: #Your peptide list in plain format
         print(aaindex_values)
 
 print("Hola Jorge")
+print("Hola Jorge dos")
