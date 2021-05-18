@@ -1,7 +1,7 @@
 #note : The missing values in some AAindex properties were replaced by zero.
 
 from Bio import SeqIO
-file = open('negative_dataset.txt','r')
+file = open('file.txt','r')
 for record in SeqIO.parse(file, "fasta"):#file
 
 
